@@ -25,3 +25,5 @@ __sudo -i -u postgres__
 __psql__
 
 __\q__
+
+More info can be found in the following article [How to Install and PostgresSQL Server in Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04).
